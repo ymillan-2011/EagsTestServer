@@ -1,6 +1,6 @@
 # EaglercraftX 1.12 test server
 
-##Instructions
+## Instructions
 Open 2 teminals
 
 One the first run:
@@ -25,7 +25,7 @@ make them all public
 
 Done!
 
-##Info
+## Info
 Dead simple debug/testing server for Eaglercraft 1.12 and 1.12.2
 
 Servers can be found in their respective folders (Protocol 335 for 1.12 and protocol 340 for 1.12.2)
