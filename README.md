@@ -1,5 +1,31 @@
 # EaglercraftX 1.12 test server
 
+##Instructions
+Open 2 teminals
+
+One the first run:
+
+cd server
+
+sudo java -jar server.jar
+
+on the second run:
+
+cd bungee
+
+sudo java -jar bungee.jar
+
+open 3 ports:
+
+8081
+
+25565
+
+make them all public
+
+Done!
+
+##Info
 Dead simple debug/testing server for Eaglercraft 1.12 and 1.12.2
 
 Servers can be found in their respective folders (Protocol 335 for 1.12 and protocol 340 for 1.12.2)
